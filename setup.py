@@ -6,8 +6,8 @@ setup(
     packages=find_packages(),  # Trouve automatiquement les packages
     install_requires=[  # Liste des dépendances (packages requis)
         'numpy>=1.18.0', 
-        'requests==2.32.3',
-        'pandas==2.2.2',
+        'requests==2.31.0',
+        'pandas==2.1.4',
         "matplotlib==3.9.0",
         'mwrogue==0.1.5'
     ],
