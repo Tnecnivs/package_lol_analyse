@@ -16,7 +16,7 @@ setup(
     description='Package to analyse opponent team in low level',
     long_description=open('README.md').read(),  # Longue description
     long_description_content_type='text/markdown',  # Format de la longue description
-    url='https://github.com/toncompte/mon_package',  # URL du dépôt
+    url='https://github.com/Tnecnivs/package_lol_analyse',  # URL du dépôt
     classifiers=[  # Classification du package
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',  # Change la licence si nécessaire
